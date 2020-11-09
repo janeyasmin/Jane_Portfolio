@@ -5,11 +5,16 @@
 * Scraped the songs titles and respective artists from a web article based on their formatting, using the BeautifulSoup library.
 * Used the Spotipy library in parallel with the Spotify for Developers Web API to acquire authentication token, create and add tracks to playlist and obtain track URIs.
 
+
+
 ![](images/spotify.jpg)
 
 # [Project 2: Robot Software: Project Overview ](https://github.com/janeyasmin/C_Programming_University_Assignments/blob/main/Assignment_2.0%20(1).c) 
 * Co-created software for a robot to move towards a beacon, whilst detecting and moving away from surrounding obstacles, alongside a colleague.
 * Assignment for Introduction to Systems Engineering and Software module assessment within Aerospace Engineering course.
+
+
+
 
 ![](images/Robot%20Video%20.mp4)
 
