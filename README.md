@@ -9,6 +9,6 @@
 * Created software for a robot to move towards a beacon, whilst detecting and moving away from surrounding obstacles, alongside a colleague.
 * Pair assignment for Introduction to Systems Engineering and Software module assessment within Aerospace Engineering course.
 
-# [Project 3: Arrays in C: Project Overview ](https://github.com/janeyasmin/C_Programming_University_Assignments/blob/main/Assignment_2.0%20(1).c) 
+# [Project 3: Arrays in C: Project Overview ](https://github.com/janeyasmin/C_Programming_University_Assignments/blob/main/Robot%20Software) 
 * Created a program that reads the values from a file into a matrix, extracts a part of that matrix to form a 2x2 sub matrix and, subsequently, finds its inverse.
 * Assignment for Introduction to Systems Engineering and Software module assessment within Aerospace Engineering course.
