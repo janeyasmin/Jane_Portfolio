@@ -1,4 +1,4 @@
-# Jane_Portfolio
+# Jane: Portfolio
 
 # [Project 1: Automate Spotify Playlist with Python: Project Overview](https://github.com/janeyasmin/Spotify-meets-Python-/blob/main/Spotify%20meets%20Python.py) 
 * Created a tool that extracts the songs that won the "Best Melodic Rap Performances" Grammy category from a web database and gathers them in a Spotify playlist.
