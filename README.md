@@ -7,8 +7,8 @@
 
 ![](https://github.com/janeyasmin/Jane_Portfolio/blob/main/images/spotify.jpg)
 # [Project 2: Robot Software: Project Overview ](https://github.com/janeyasmin/C_Programming_University_Assignments/blob/main/Assignment_2.0%20(1).c) 
-* Created software for a robot to move towards a beacon, whilst detecting and moving away from surrounding obstacles, alongside a colleague.
-* Pair assignment for Introduction to Systems Engineering and Software module assessment within Aerospace Engineering course.
+* Co-created software for a robot to move towards a beacon, whilst detecting and moving away from surrounding obstacles, alongside a colleague.
+* Assignment for Introduction to Systems Engineering and Software module assessment within Aerospace Engineering course.
 ![](https://github.com/janeyasmin/Jane_Portfolio/blob/main/images/Robot%20Video%20.mp4)
 # [Project 3: Arrays in C: Project Overview ](https://github.com/janeyasmin/C_Programming_University_Assignments/blob/main/Robot%20Software) 
 * Created a program that reads the values from a file into a matrix, extracts a part of that matrix to form a 2x2 sub matrix and, subsequently, finds its inverse.
