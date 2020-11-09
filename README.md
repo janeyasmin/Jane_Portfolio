@@ -2,7 +2,7 @@
 
 # [Project 1: Automate Spotify Playlist with Python: Project Overview](https://github.com/janeyasmin/Spotify-meets-Python-/blob/main/Spotify%20meets%20Python.py) 
 * Created a tool that extracts the songs that won the "Best Melodic Rap Performances" Grammy category from a web database and gathers them in a Spotify playlist.
-* Scraped the songs titles and respective artists from a web article based on their formatting, using the BeautifulSoup library.
+* Scraped the songs titles and respective artists from a web article, based on their formatting, using the BeautifulSoup library.
 * Used the Spotipy library in parallel with the Spotify for Developers Web API to acquire authentication token, create and add tracks to playlist and obtain track URIs.
 
 
